@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Result">Result</string>
+    <string name="enter_two_numbers">Enter_two_numbers</string>
+    <string name="enter_first_number">Enter first Number</string>
+    <string name="enter_second_number">Enter second Number</string>
+    <string name="btmul">*</string>
+    <string name="btsub">-</string>
+    <string name="btnadd">+</string>
+    <string name="btndiv">/</string>
+    <string name="btnclr">C</string>
+    <string name="_0_00">0.00</string>
+</resources>
